@@ -1,7 +1,7 @@
 <h1> My first program writed in Rust </h1>
 
 Este é meu primeiro portfólio sobre a Linguagem Rust e a minha experiência nos estudos com essa bela linguagem!
-
+```
 -> Prática
 -> Rápida
 -> Simples
@@ -18,10 +18,12 @@ Este é meu primeiro portfólio sobre a Linguagem Rust e a minha experiência no
 -> Possui novos meios de checagem utilizando CARGO CHECK para checar seu código sem compilar
 -> Funções diferentes que de vista parecem ser problemas mas na verdade são funções para a segurança do código
 -> Alta facilidade em aprenda-la!
+```
 
 # Como compilar meu programa?
 
 ~@root#: Em seu terminal/console digite os seguintes comandos:
+
     ~@user#: cargo run 
              ^^^^^^^^^ ------> possui a função de compilar e iniciar o programa após a compilação.
              
